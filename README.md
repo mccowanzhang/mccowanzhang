@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+I'm a second year Computer Science student at the University of Waterloo who never stops learning. I have experience in Web Development, Blockchain Technologies, and Cyber Security but am interested all things computer science.
+
+### 🌱 I’m currently learning ...
+* ⚙️ [Compilers](https://www.linkedin.com/in/jeffniu22/)
+* 🚀 High Performance Computing 
+* 😋 The perfect steak recipe
+
+### ✈️ Where I've been ...
+* Interned as a SWE at [McAfee](https://www.mcafee.com/)
+* Interned as a SWE at [DanDev Solutions](https://dandev.solutions/)
+* Interned as a SWE at [SISA Energy](https://www.sisaenergy.com/)
+
+### 📫 Check me out here ... 
+* [My Linkedin](https://www.linkedin.com/in/mccowanzhang/)
+* [My Website](https://www.mccowanzhang.me/)
+
+
 <!--
 **mccowanzhang/mccowanzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
